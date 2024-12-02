@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=League+Spartan:wght@100..900&display=swap");
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 100vw;
+}
+.Menu {
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+h1 {
+	color: #369eff;
+	font-size: 40px;
+	font-weight: 900;
+	text-align: center;
+	margin: 10px;
+	top: 37px;
+	position: absolute;
+}
+h2 {
+	color: #3e3e3e;
+	font-size: 35px;
+	font-weight: 900;
+	text-align: left;
+	margin: 20px;
+	top: 130px;
+	position: absolute;
+}
+h3 {
+	color: #808080;
+	font-size: 18px;
+	font-weight: 400;
+	text-align: left;
+	margin: 20px;   
+    top: 260px;
+    position: absolute;
+}
+.Pc {
+	width: 350px;
+    height: 507px;
+    position: absolute;
+    left: 67px;
+    top: 381px;
+}
+.square-1 {
+	height: 100vh;
+	width: 100vw;
+	background-color: #fbdf93;
+	display: flex;
+	flex-direction: column;
+	justify-content: end;
+	align-items: center;
+	padding: 20px;
+	font-size: 22px;
+	font-weight: 600;
+	text-align: center;
+}
+.square-2 {
+	height: 100vh;
+	width: 100vw;
+	background-color: #d3fb93;
+	display: flex;
+	flex-direction: column;
+	justify-content: end;
+	align-items: center;
+	padding: 20px;
+	font-size: 22px;
+	font-weight: 600;
+	text-align: center;
+}
+.square-3 {
+	height: 100vh;
+	width: 100vw;
+	background-color: #e193fb;
+	display: flex;
+	flex-direction: column;
+	justify-content: end;
+	align-items: center;
+	padding: 20px;
+	font-size: 22px;
+	font-weight: 600;
+	text-align: center;
+}
+.square-4 {
+	height: 100vh;
+	width: 100vw;
+	background-color: #93f0fb;
+	display: flex;
+	flex-direction: column;
+	justify-content: end;
+	align-items: center;
+	padding: 20px;
+	font-size: 22px;
+	font-weight: 600;
+	text-align: center;
+}
+.square-5 {
+	height: 100vh;
+	width: 100vw;
+	background-color: #f7fb93;
+	display: flex;
+	flex-direction: column;
+	justify-content: end;
+	align-items: center;
+	padding: 20px;
+	font-size: 22px;
+	font-weight: 600;
+	text-align: center;
+}
+.Petit {
+	font-size: 12px;
+	font-weight: 400;
+	text-align: center;
+}
